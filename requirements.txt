@@ -1,0 +1,1 @@
+undetected-chromedriver==3.5.0
